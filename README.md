@@ -28,8 +28,10 @@ Dazu muss eine der folgenden Installationspakete installiert werden, die diesen 
 
 ## Release
 
-Die zip-Datei im release Verzeichnis enthält fertig gebaute Versionen dieses Abschlussprojekts.\
-Die Anwendungen wurden so modifiziert, dass sie die zu nutzende Datenbank im selben Ausführungsverzeichnis sucht.\
+**Download:** [Zip-Datei (175 MB)](https://drive.google.com/file/d/1MKUtVUKGna8gV3elOeoGjMGBvA91O-Vd/view?usp=sharing)
+
+Die Zip-Datei enthält fertig gebaute Versionen dieses Abschlussprojekts.\
+Die Anwendungen wurden so modifiziert, dass sie die zu nutzende Datenbank im selben Ausführungsverzeichnis sucht.
 
 Die verwendete Datenbank ist immer 'schulplan_db_modify.accdb'. \
 Die Datenbank-Datei 'schulplan_db_filled.accdb' ist mit Beispieldaten gefüllt und \
