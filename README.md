@@ -15,6 +15,26 @@
 ## Lizenz: GPL v3
 Dieses C# Abschlussprojekt ist unter der GPL v3 lizensiert.
 
+## Abhängigkeiten
+
+Auf dem Rechner muss der Microsoft.ACE.OLEDB.12.0 Provider installiert sein, damit diese App auf die Access-Datenbanken zugreifen kann.
+
+Dazu muss eine der folgenden Installationspakete installiert werden, die diesen Provider standardmäßig enthalten:
+
+- Microsoft Access (es ist keine valide Lizenz notwending)
+- Microsoft Access Database Engine 2016 Redistributable (https://www.microsoft.com/de-de/download/details.aspx?id=54920)
+- Microsoft 365 Access Runtime (https://support.microsoft.com/de-de/office/herunterladen-und-installieren-von-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9)
+
+
+## Release
+
+Die zip-Datei im release Verzeichnis enthält fertig gebaute Versionen dieses Abschlussprojekts.\
+Die Anwendungen wurden so modifiziert, dass sie die zu nutzende Datenbank im selben Ausführungsverzeichnis sucht.\
+
+Die verwendete Datenbank ist immer 'schulplan_db_modify.accdb'. \
+Die Datenbank-Datei 'schulplan_db_filled.accdb' ist mit Beispieldaten gefüllt und \
+die Datenbank-Datei 'schulplan_db_empty.accdb' enthält nur die Datenbankstruktur aber keine Daten.
+
 
 ## Aufgabenstellung: Schulverwaltung zur Erstellung von Stundenplänen
 
