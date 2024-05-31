@@ -67,7 +67,4 @@ Es wurden Unit-Tests geschrieben, die dazu genutzt wurden, die benutzte Datenban
 <img src="screenshot/klassen_schueler_lehrer-schueler_editieren.png"> \
 <img src="screenshot/klassen_schueler_lehrer-lehrer_editieren.png"> \
 <img src="screenshot/klassenstundenplan.png"> \
-
 <img src="screenshot/klassenstundenplan-eintrag_editieren.png"> \
-
-
